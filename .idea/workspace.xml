@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfffa724-3b29-470b-be01-8bc00b967fe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ СПРИНТ 2 | 3, 9, 17, 23/02.05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ СПРИНТ 2 | 3, 9, 17, 23/9_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ СПРИНТ 2 | 3, 9, 17, 23/9_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Интенсив.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 1 | 19, 20, 21/ДЗ СПРИНТ 1 | 19, 20, 21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 1 | 19, 20, 21/Первые 19-21.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/24_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/24_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/ДЗ СПРИНТ 2 | 16, 24.py" afterDir="false" />
+    <list default="true" id="bfffa724-3b29-470b-be01-8bc00b967fe4" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/ДЗ спринт 3 | 12, 17, 25/h17_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ДЗ спринт 3 | 12, 17, 25/h17_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ДЗ спринт 3 | 12, 17, 25/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ДЗ спринт 3 | 12, 17, 25/ДЗ спринт 3 | 12, 17, 25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/ДЗ СПРИНТ 2 | 16, 24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24/ДЗ СПРИНТ 2 | 16, 24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Servooshka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Servooshka/Intensive.git&quot;,
+    &quot;accountId&quot;: &quot;1fbd48ca-ab59-4dbc-8ba4-f74024c0258f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2fuFmx6c9tDvJTtO7zsJfpg5Sjv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,22 +52,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.02.05.executor": "Run",
-    "Python.ДЗ СПРИНТ 2 | 16, 24.executor": "Run",
-    "Python.решение через рекурсию.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.02.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ СПРИНТ 2 | 16, 24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ДЗ спринт 3 | 12, 17, 25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.решение через рекурсию.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ДЗ спринт 3 | 12, 17, 25" />
       <recent name="$PROJECT_DIR$/ДЗ СПРИНТ 2 | 16, 24" />
       <recent name="$PROJECT_DIR$/ДЗ СПРИНТ 1 | 19, 20, 21" />
       <recent name="$PROJECT_DIR$/ДЗ СПРИНТ 1 | 19, 20, 21/" />
       <recent name="$PROJECT_DIR$/ СПРИНТ 1 | 19, 20, 21" />
-      <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -83,6 +87,26 @@
       <option name="presentableId" value="Default" />
       <updated>1714643221228</updated>
     </task>
+    <task id="LOCAL-00001" summary="-">
+      <option name="closed" value="true" />
+      <created>1714675314923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714675314923</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
